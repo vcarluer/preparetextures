@@ -59,4 +59,6 @@ Jimp.read('background.jpg').then(function (background) {
 }
 
 convert('\\Chara')
+convert('\\Place')
+convert('\\Item')
 
